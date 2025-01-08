@@ -21,7 +21,7 @@
     "@zip.js/zip.js": "2.3.23",
     "apexcharts": "3.32.1",
     "classlist-polyfill": "1.2.0",
-    "core-js": "3.19.3",
+    "core-js": "3.40.0",
     "dayjs": "1.10.7",
     "file-saver": "2.0.5",
     "nuxt": "2.15.8",
